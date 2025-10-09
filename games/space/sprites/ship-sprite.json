@@ -1,20 +1,20 @@
 {
   "frames": {
-    "ship1": {
+    "idle_001": {
       "frame": { "x": 0, "y": 0, "w": 128, "h": 64 },
       "rotated": false,
       "trimmed": false,
       "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 64 },
       "sourceSize": { "w": 128, "h": 64 }
     },
-    "ship2": {
+    "idle_002": {
       "frame": { "x": 0, "y": 64, "w": 128, "h": 64 },
       "rotated": false,
       "trimmed": false,
       "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 64 },
       "sourceSize": { "w": 128, "h": 64 }
     },
-    "ship3": {
+    "idle_003": {
       "frame": { "x": 0, "y": 128, "w": 128, "h": 64 },
       "rotated": false,
       "trimmed": false,
